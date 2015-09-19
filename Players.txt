@@ -1,0 +1,1 @@
+Player Number=1 Player name=A
