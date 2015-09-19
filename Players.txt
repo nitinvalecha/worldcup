@@ -1,1 +1,2 @@
 Player Number=1 Player name=A
+Player Number=2 Player name=B
